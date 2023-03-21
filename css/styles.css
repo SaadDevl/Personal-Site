@@ -1,0 +1,241 @@
+body{
+    margin: 0 ;
+    
+    text-align: center;
+    font-size: 30px;
+    color: rgba(29, 29, 23, 0.425);
+    font-family:'Merriweather', serif;
+    
+    
+    /* 'Brush Script MT' */
+}
+hr{
+    border-color: rgb(230, 230, 230);
+    border-top-style: dotted ;   
+   width: 0;
+     border-width: 15px 0px 0px 0px ;
+     padding: 40px;
+}
+.text1{
+    line-height: 1.6;
+}
+.A{
+    color: rgba(245, 245, 220, 0.683);  
+    position: relative;
+    font-size: 5.625rem;
+  
+    top: 200px;
+}
+.B{
+    color: rgba(245, 245, 220, 0.683);  
+    position: relative;
+    font-size:1.875rem;
+    top: 200px;
+    
+}
+.h2Skills{
+color: #0b007e;
+}
+h1{
+   margin: 0 auto 0 auto;
+   
+    font-family: 'Sacramento', cursive;
+   
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+  
+
+  font-size: 19px; 
+}
+.profile{
+    padding: 60px;
+}
+.skill-row{
+    padding: 60px;
+}
+.Spacemanhead{
+    position: relative;
+    width: 25px;
+    right: 68.5px;
+    bottom: 262px;   
+}
+.Spacemanhead2{
+    position: relative;
+    width: 35px;
+    right: 270px;
+    bottom: 515px;   
+}
+.ManSkills{
+position: relative;
+width: 5%;
+left: 270px;
+bottom: 60px;
+
+}
+.CirSkills{
+    position: relative;
+    width: 10%;
+    left: 500px;
+    }
+.LapSkills{
+        position: relative;
+        width: 50px;
+        left: 400px;
+        }   
+.PSkill{
+position: relative;
+font-size: 1.188rem;
+right: 206px;
+bottom: 150px;
+line-height: 1.6;
+display: inline-block;
+text-align: left;
+
+}
+.HSkill{
+position: relative;
+right: 200px; 
+bottom: 150px;
+}
+.Meteor1{
+    position: relative;
+    width: 20%;
+    bottom: 100px;
+}
+.Meteor2{
+    position: relative;
+    width: 20%;
+    bottom: 200px;
+}
+.Meteor3{
+    position: relative;
+    top: 100px;
+    width: 20%;
+}
+#hr2{
+    position: relative;
+    padding-top: 2px;
+    bottom: 80px;
+
+}
+
+ .Saturn{
+    
+    width: 20%;
+    top: 150px;
+    right: 900px;
+  position: relative;
+   
+}
+.btn {
+    -webkit-border-radius: 5;
+    -moz-border-radius: 5;
+    border-radius: 5px;
+    font-family: Arial;
+    color: rgba(245, 245, 220, 0.683);
+    font-size: 27px;
+    background: #060047;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  .btn:hover {
+    background: #0b0269;
+    text-decoration: none;
+  } 
+.person{
+    position: relative;
+    top: 20px;
+    width: 15%;
+}
+
+.Rocket{
+    
+    width: 30%;
+
+  position: relative;
+  bottom: 350px;
+  left: 500px;
+
+} 
+
+
+
+
+.Top{
+    padding-top: 20px;
+    background-color: #060047;
+    height: 840px;
+    position: relative;
+
+    
+   
+    
+   
+}
+.Twitter{
+    margin-top: 50px;
+    color:rgba(245, 245, 220, 0.683) ;
+    position: relative;
+    display: inline-block;
+    text-decoration: none;
+    
+}
+.GitHub{
+    padding-left: 40px;
+    margin-top: 50px;
+    color:rgba(245, 245, 220, 0.683) ;
+    position: relative;
+    display: inline-block;
+    text-decoration: none;
+    
+}
+#h3mid{
+    color: #060047; 
+}
+
+#pbtn{
+     padding-bottom: 90px; 
+    line-height: 1.6;
+}
+.btn{
+    padding-bottom: 10px;
+} 
+.middle-container{
+    padding-bottom: 80px;
+}
+.bottom-container{
+    background-color: #060047;
+    height: 290px;
+   
+    color: rgba(245, 245, 220, 0.683)
+
+}
+ /* #Messageimg{
+   width: 80px;
+}  */
+#h2{
+    margin-bottom: 90px;
+    
+}
+
+
+.pro{
+    text-decoration: underline;
+    
+    
+
+}
+#lastP{
+    padding-top: 130px;
+  margin-left: 10px;
+}
+
